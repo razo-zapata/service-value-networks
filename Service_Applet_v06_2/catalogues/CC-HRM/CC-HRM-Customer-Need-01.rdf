@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE rdf:RDF [
+    <!ENTITY rdf 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+    <!ENTITY a 'http://www.cs.vu.nl/~gordijn/e3value#'>
+    <!ENTITY rdfs 'http://www.w3.org/2000/01/rdf-schema#'>
+]>
+<rdf:RDF xmlns:rdf="&rdf;"
+    xmlns:a="&a;"
+    xmlns:rdfs="&rdfs;">
+<!-- ################### NEED ############################### -->
+<a:need rdf:about="http://www.cs.vu.nl/~gordijn/e3value#Need_Programmer"
+   a:e3_has_name="How can I improve my programming skills?"
+   rdfs:label="Empty Label">
+   <a:specified_by rdf:resource="&a;FC_Data_Analysis_and_Design_10"/>
+   <a:specified_by rdf:resource="&a;FC_Event_Driven_Programming_20"/>
+   <a:specified_by rdf:resource="&a;FC_Web_Applications_Development_30"/>   
+</a:need>
+<!-- ################### FUNCTIONAL CONSEQUENCES ############################### -->
+<a:functional_consequence rdf:about="&a;FC_Data_Analysis_and_Design_10"
+                          a:e3_has_name=" Data Analysis and Design"
+                          rdfs:label="Data Analysis and Design">
+  <a:consists_of rdf:resource="&a;FC_Data_structures_and_algorithms_11"/>
+</a:functional_consequence>
+<a:functional_consequence rdf:about="&a;FC_Data_structures_and_algorithms_11"
+                          a:e3_has_name=" Data structures and algorithms"
+                          rdfs:label="Data structures and algorithms">
+  <a:has_want rdf:resource="&a;Want_DATA_COURSE_100"/>
+  <a:depends_on rdf:resource="&a;QC_High_1000"/>
+  <a:depends_on rdf:resource="&a;QC_Medium_1001"/>
+</a:functional_consequence>
+<a:functional_consequence rdf:about="&a;FC_Data_Analysis_and_Data_Structure_Design_2_12"
+                          a:e3_has_name=" Data Analysis and Data Structure Design 2"
+                          rdfs:label="Data Analysis and Data Structure Design 2">
+  <a:has_want rdf:resource="&a;Want_DATA_COURSE_100"/>
+  <a:depends_on rdf:resource="&a;QC_International_0"/>
+  <a:depends_on rdf:resource="&a;QC_National_2"/>  
+</a:functional_consequence>
+<a:functional_consequence rdf:about="&a;FC_Data_Representation_and_Manipulation_for_IT_13"
+                          a:e3_has_name=" Data Representation and Manipulation for IT"
+                          rdfs:label="Data Representation and Manipulation for IT">
+  <a:has_want rdf:resource="&a;Want_DATA_COURSE_100"/>
+  <a:depends_on rdf:resource="&a;QC_International_0"/>
+  <a:depends_on rdf:resource="&a;QC_National_2"/>  
+</a:functional_consequence>
+<a:functional_consequence rdf:about="&a;FC_Event_Driven_Programming_20"
+                          a:e3_has_name=" Event Driven Programming"
+                          rdfs:label="Event Driven Programming">
+  <a:consists_of rdf:resource="&a;FC_Designing_and_developing_event_driven_computer_programs_21"/>
+</a:functional_consequence>
+<a:functional_consequence rdf:about="&a;FC_Designing_and_developing_event_driven_computer_programs_21"
+                          a:e3_has_name=" Designing and developing event-driven computer programs"
+                          rdfs:label="Designing and developing event-driven computer programs">
+  <a:has_want rdf:resource="&a;Want_EVENT_PROGRAMING_COURSE_200"/>
+  <a:depends_on rdf:resource="&a;QC_High_1000"/>
+  <a:depends_on rdf:resource="&a;QC_Medium_1001"/>
+</a:functional_consequence>
+<a:functional_consequence rdf:about="&a;FC_Event_Driven_Programming_Solutions_22"
+                          a:e3_has_name=" Event Driven Programming Solutions"
+                          rdfs:label="Event Driven Programming Solutions">
+  <a:has_want rdf:resource="&a;Want_EVENT_PROGRAMING_COURSE_200"/>
+  <a:depends_on rdf:resource="&a;QC_High_1000"/>
+  <a:depends_on rdf:resource="&a;QC_Medium_1001"/>  
+</a:functional_consequence>
+<a:functional_consequence rdf:about="&a;FC_Creating_an_event_driven_computer_program_23"
+                          a:e3_has_name=" Creating an event driven computer program"
+                          rdfs:label="Creating an event driven computer program">
+  <a:has_want rdf:resource="&a;Want_EVENT_PROGRAMING_COURSE_200"/>
+  <a:depends_on rdf:resource="&a;QC_High_1000"/>
+  <a:depends_on rdf:resource="&a;QC_Medium_1001"/>  
+</a:functional_consequence>
+<a:functional_consequence rdf:about="&a;FC_Web_Applications_Development_30"
+                          a:e3_has_name=" Web Applications Development"
+                          rdfs:label="Web Applications Development">
+  <a:consists_of rdf:resource="&a;FC_Designing_and_developing_a_Web_site_31"/>
+</a:functional_consequence>
+<a:functional_consequence rdf:about="&a;FC_Designing_and_developing_a_Web_site_31"
+                          a:e3_has_name=" Designing and developing a Web site"
+                          rdfs:label="Designing and developing a Web site">
+  <a:has_want rdf:resource="&a;Want_WEB_DEVELOPING_COURSE_300"/>
+  <a:depends_on rdf:resource="&a;QC_High_1000"/>
+  <a:depends_on rdf:resource="&a;QC_Medium_1001"/>
+</a:functional_consequence>
+<a:functional_consequence rdf:about="&a;FC_Website_Management_32"
+                          a:e3_has_name=" Website Management"
+                          rdfs:label="Website Management">
+  <a:has_want rdf:resource="&a;Want_WEB_DEVELOPING_COURSE_300"/>
+  <a:depends_on rdf:resource="&a;QC_High_1000"/>
+  <a:depends_on rdf:resource="&a;QC_Medium_1001"/>  
+</a:functional_consequence>
+<a:functional_consequence rdf:about="&a;FC_Web_Server_Scripting_33"
+                          a:e3_has_name=" Web Server Scripting"
+                          rdfs:label="Web Server Scripting">
+  <a:has_want rdf:resource="&a;Want_WEB_DEVELOPING_COURSE_300"/>
+  <a:depends_on rdf:resource="&a;QC_High_1000"/>
+  <a:depends_on rdf:resource="&a;QC_Medium_1001"/>  
+</a:functional_consequence>
+<!-- ################### WANT ############################### -->
+<a:want rdf:about="&a;Want_DATA_COURSE_100"
+        a:e3_has_name="DATA COURSE"
+        rdfs:label="DATA COURSE">
+  <a:has rdf:resource="&a;FC_Data_structures_and_algorithms_11"/>
+  <a:has rdf:resource="&a;FC_Data_Analysis_and_Data_Structure_Design_2_12"/>
+  <a:has rdf:resource="&a;FC_Data_Representation_and_Manipulation_for_IT_13"/>
+</a:want>
+<a:want rdf:about="&a;Want_EVENT_PROGRAMING_COURSE_200"
+        a:e3_has_name="EVENT PROGRAMING COURSE"
+        rdfs:label="DATA COURSE">
+  <a:has rdf:resource="&a;FC_Designing_and_developing_event_driven_computer_programs_21"/>
+  <a:has rdf:resource="&a;FC_Event_Driven_Programming_Solutions_22"/>
+  <a:has rdf:resource="&a;FC_Creating_an_event_driven_computer_program_23"/>
+</a:want>
+<a:want rdf:about="&a;Want_WEB_DEVELOPING_COURSE_300"
+        a:e3_has_name="WEB DEVELOPING COURSE 300"
+        rdfs:label="WEB DEVELOPING COURSE 300">
+  <a:has rdf:resource="&a;FC_Designing_and_developing_a_Web_site_31"/>
+  <a:has rdf:resource="&a;FC_Website_Management_32"/>
+  <a:has rdf:resource="&a;FC_Web_Server_Scripting_33"/>
+</a:want>
+<!-- ################### QUALITY CONSEQUENCES ############################### -->
+<a:quality_consequence rdf:about="&a;QC_International_0"
+    a:e3_has_name="International"
+    rdfs:label="International">
+   <a:has_scale rdf:resource="&a;Nom_Repertoire_Coverage_5"/>
+</a:quality_consequence>
+<a:quality_consequence rdf:about="&a;QC_MP3_10000"
+    a:e3_has_name="MP3"
+    rdfs:label="MP3">
+   <a:has_scale rdf:resource="&a;Nom_Format_10002"/>
+</a:quality_consequence>
+<a:quality_consequence rdf:about="&a;QC_OGG_10001"
+    a:e3_has_name="OGG"
+    rdfs:label="OGG">
+   <a:has_scale rdf:resource="&a;Nom_Format_10002"/>
+</a:quality_consequence>
+<a:quality_consequence rdf:about="&a;QC_National_2"
+                       a:e3_has_name="National"
+                       rdfs:label="National">
+  <a:has_scale rdf:resource="&a;Nom_Repertoire_Coverage_5"/>
+</a:quality_consequence>
+<a:quality_consequence rdf:about="&a;QC_International_P_30022"
+                       a:e3_has_name="International_P"
+                       rdfs:label="International_P">
+  <a:has_scale rdf:resource="&a;Nom_Sector_Coverage_30021"/>
+</a:quality_consequence>
+<a:quality_consequence rdf:about="&a;QC_National_P_30023"
+                       a:e3_has_name="National_P"
+                       rdfs:label="National_P">
+  <a:has_scale rdf:resource="&a;Nom_Sector_Coverage_30021"/>
+</a:quality_consequence>
+<a:quality_consequence rdf:about="&a;QC_High_1000"
+                       a:e3_has_name="High"
+                       rdfs:label="High">
+  <a:has_scale rdf:resource="&a;Nom_Fidelity_10"/>
+</a:quality_consequence>
+<a:quality_consequence rdf:about="&a;QC_Medium_1001"
+                       a:e3_has_name="Medium"
+                       rdfs:label="Medium">
+  <a:has_scale rdf:resource="&a;Nom_Fidelity_10"/>
+</a:quality_consequence>
+<!-- ################### NOMINAL ############################### -->
+<a:nominal rdf:about="&a;Nom_Format_10002"
+           a:e3_has_name="Format"
+           rdfs:label="Format">
+  <a:has_quality_consequence rdf:resource="&a;QC_MP3_10000"/>
+  <a:has_quality_consequence rdf:resource="&a;QC_OGG_10001"/>
+</a:nominal>
+<a:nominal rdf:about="&a;Nom_Sector_Coverage_30021"
+           a:e3_has_name="Sector Coverage"
+           rdfs:label="Sector Coverage">
+  <a:has_quality_consequence rdf:resource="&a;QC_International_P_30022"/>
+  <a:has_quality_consequence rdf:resource="&a;QC_National_P_30023"/>
+</a:nominal>
+<a:nominal rdf:about="&a;Nom_Repertoire_Coverage_5"
+           a:e3_has_name="Equivalency"
+           rdfs:label="Equivalency">
+  <a:has_quality_consequence rdf:resource="&a;QC_International_0"/>
+  <a:has_quality_consequence rdf:resource="&a;QC_National_2"/>
+</a:nominal>
+<a:nominal rdf:about="&a;Nom_Fidelity_10"
+           a:e3_has_name="Level"
+           rdfs:label="Level">
+  <a:has_quality_consequence rdf:resource="&a;QC_High_11"/>
+  <a:has_quality_consequence rdf:resource="&a;QC_Medium_12"/>
+</a:nominal>
+</rdf:RDF>

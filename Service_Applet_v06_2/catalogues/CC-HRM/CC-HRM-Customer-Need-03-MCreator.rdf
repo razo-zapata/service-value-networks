@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE rdf:RDF [
+    <!ENTITY rdf 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+    <!ENTITY a 'http://www.cs.vu.nl/~gordijn/e3value#'>
+    <!ENTITY rdfs 'http://www.w3.org/2000/01/rdf-schema#'>
+]>
+<rdf:RDF xmlns:rdf="&rdf;"
+    xmlns:a="&a;"
+    xmlns:rdfs="&rdfs;">
+<!-- ################### NEED ############################### -->
+<a:need rdf:about="http://www.cs.vu.nl/~gordijn/e3value#Need_Programmer"
+   a:e3_has_name="As a multimedia creator, how can I improve my skills?"
+   rdfs:label="Empty Label">
+   <a:specified_by rdf:resource="&a;FC_Animation_Techniques_10"/>
+   <a:specified_by rdf:resource="&a;FC_Image_Edition_20"/>
+   <a:specified_by rdf:resource="&a;FC_Audio_Edition_30"/>   
+</a:need>
+<!-- ################### FUNCTIONAL CONSEQUENCES ############################### -->
+<!-- ================================ First ================================ -->
+<a:functional_consequence rdf:about="&a;FC_Animation_Techniques_10"
+                          a:e3_has_name="Animation Techniques"
+                          rdfs:label="Animation Techniques">
+  <a:consists_of rdf:resource="&a;FC_Principles_of_Animation_11"/>
+  <a:consists_of rdf:resource="&a;FC_Digital_Animation_11"/>  
+</a:functional_consequence>
+<!-- = First Group of FCs = -->
+<a:functional_consequence rdf:about="&a;FC_Principles_of_Animation_11"
+                          a:e3_has_name="Principles of Animation"
+                          rdfs:label="Principles of Animation">
+  <a:has_want rdf:resource="&a;Want_Basic_Animation_Course_100"/>
+  <a:depends_on rdf:resource="&a;QC_High_1000"/>
+  <a:depends_on rdf:resource="&a;QC_Medium_1001"/>
+</a:functional_consequence>
+<a:functional_consequence rdf:about="&a;FC_Stopmotion_Animation_12"
+                          a:e3_has_name="Stopmotion Animation"
+                          rdfs:label="Stopmotion Animation">
+  <a:has_want rdf:resource="&a;Want_Basic_Animation_Course_100"/>
+  <a:depends_on rdf:resource="&a;QC_International_0"/>
+  <a:depends_on rdf:resource="&a;QC_National_2"/>  
+</a:functional_consequence>
+<a:functional_consequence rdf:about="&a;FC_2D_Traditional_Animation_13"
+                          a:e3_has_name="2D Traditional Animation"
+                          rdfs:label="2D Traditional Animation">
+  <a:has_want rdf:resource="&a;Want_Basic_Animation_Course_100"/>
+  <a:depends_on rdf:resource="&a;QC_International_0"/>
+  <a:depends_on rdf:resource="&a;QC_National_2"/>  
+</a:functional_consequence>
+<!-- = Second Group of FCs = -->
+<a:functional_consequence rdf:about="&a;FC_Digital_Animation_11"
+                          a:e3_has_name="Digital Animation"
+                          rdfs:label="Digital Animation">
+  <a:has_want rdf:resource="&a;Want_Digital_Animation_Course_100"/>
+  <a:depends_on rdf:resource="&a;QC_High_1000"/>
+  <a:depends_on rdf:resource="&a;QC_Medium_1001"/>
+</a:functional_consequence>
+<a:functional_consequence rdf:about="&a;FC_Digital_3D_Modelling_for_Animation_12"
+                          a:e3_has_name="Digital 3D Modelling for Animation"
+                          rdfs:label="Digital 3D Modelling for Animation">
+  <a:has_want rdf:resource="&a;Want_Digital_Animation_Course_100"/>
+  <a:depends_on rdf:resource="&a;QC_International_0"/>
+  <a:depends_on rdf:resource="&a;QC_National_2"/>  
+</a:functional_consequence>
+<!-- ================================ Second ================================ -->
+<a:functional_consequence rdf:about="&a;FC_Image_Edition_20"
+                          a:e3_has_name="Image Edition"
+                          rdfs:label="Image Edition">
+  <a:consists_of rdf:resource="&a;FC_Principles_of_photo_image_capture_21"/>
+</a:functional_consequence>
+<a:functional_consequence rdf:about="&a;FC_Principles_of_photo_image_capture_21"
+                          a:e3_has_name="Principles of photo image capture"
+                          rdfs:label="Principles of photo image capture">
+  <a:has_want rdf:resource="&a;Want_Image_Manipulation_Course_200"/>
+  <a:depends_on rdf:resource="&a;QC_High_1000"/>
+  <a:depends_on rdf:resource="&a;QC_Medium_1001"/>
+</a:functional_consequence>
+<a:functional_consequence rdf:about="&a;FC_Photo_image_capture_22"
+                          a:e3_has_name="Photo image capture"
+                          rdfs:label="Photo image capture">
+  <a:has_want rdf:resource="&a;Want_Image_Manipulation_Course_200"/>
+  <a:depends_on rdf:resource="&a;QC_High_1000"/>
+  <a:depends_on rdf:resource="&a;QC_Medium_1001"/>  
+</a:functional_consequence>
+<a:functional_consequence rdf:about="&a;FC_Presenting_photo_images_23"
+                          a:e3_has_name="Presenting photo images"
+                          rdfs:label="Presenting photo images">
+  <a:has_want rdf:resource="&a;Want_Image_Manipulation_Course_200"/>
+  <a:depends_on rdf:resource="&a;QC_High_1000"/>
+  <a:depends_on rdf:resource="&a;QC_Medium_1001"/>  
+</a:functional_consequence>
+<a:functional_consequence rdf:about="&a;FC_Digital_image_manipulation_24"
+                          a:e3_has_name="Digital image manipulation"
+                          rdfs:label="Digital image manipulation">
+  <a:has_want rdf:resource="&a;Want_Image_Manipulation_Course_200"/>
+  <a:depends_on rdf:resource="&a;QC_High_1000"/>
+  <a:depends_on rdf:resource="&a;QC_Medium_1001"/>  
+</a:functional_consequence>
+<a:functional_consequence rdf:about="&a;FC_Studio_photography_25"
+                          a:e3_has_name="Studio photography"
+                          rdfs:label="Studio photography">
+  <a:has_want rdf:resource="&a;Want_Image_Manipulation_Course_200"/>
+  <a:depends_on rdf:resource="&a;QC_High_1000"/>
+  <a:depends_on rdf:resource="&a;QC_Medium_1001"/>  
+</a:functional_consequence>
+<!-- ================================ Third ================================ -->
+<a:functional_consequence rdf:about="&a;FC_Audio_Edition_30"
+                          a:e3_has_name="Audio Edition"
+                          rdfs:label="Audio Edition">
+  <a:consists_of rdf:resource="&a;FC_Digital_sound_editing_31"/>
+</a:functional_consequence>
+<a:functional_consequence rdf:about="&a;FC_Digital_sound_editing_31"
+                          a:e3_has_name="Digital sound editing"
+                          rdfs:label="Digital sound editing">
+  <a:has_want rdf:resource="&a;Want_Audio_Edition_Course_300"/>
+  <a:depends_on rdf:resource="&a;QC_High_1000"/>
+  <a:depends_on rdf:resource="&a;QC_Medium_1001"/>
+</a:functional_consequence>
+<a:functional_consequence rdf:about="&a;FC_Audio_mastering_and_restoration_32"
+                          a:e3_has_name="Audio mastering and restoration"
+                          rdfs:label="Audio mastering and restoration">
+  <a:has_want rdf:resource="&a;Want_Audio_Edition_Course_300"/>
+  <a:depends_on rdf:resource="&a;QC_High_1000"/>
+  <a:depends_on rdf:resource="&a;QC_Medium_1001"/>  
+</a:functional_consequence>
+<a:functional_consequence rdf:about="&a;FC_Sound_recording_skills_33"
+                          a:e3_has_name="Sound recording skills"
+                          rdfs:label="Sound recording skills">
+  <a:has_want rdf:resource="&a;Want_Audio_Edition_Course_300"/>
+  <a:depends_on rdf:resource="&a;QC_High_1000"/>
+  <a:depends_on rdf:resource="&a;QC_Medium_1001"/>  
+</a:functional_consequence>
+<a:functional_consequence rdf:about="&a;FC_Multitrack_recording_and_mixing_34"
+                          a:e3_has_name="Multitrack recording and mixing"
+                          rdfs:label="Multitrack recording and mixing">
+  <a:has_want rdf:resource="&a;Want_Audio_Edition_Course_300"/>
+  <a:depends_on rdf:resource="&a;QC_High_1000"/>
+  <a:depends_on rdf:resource="&a;QC_Medium_1001"/>  
+</a:functional_consequence>
+<!-- ================================ Forth ================================ -->
+
+<!-- ################### WANT ############################### -->
+<a:want rdf:about="&a;Want_Basic_Animation_Course_100"
+        a:e3_has_name="Basic Animation"
+        rdfs:label="Basic Animation">
+  <a:has rdf:resource="&a;FC_Principles_of_Animation_11"/>
+  <a:has rdf:resource="&a;FC_Stopmotion_Animation_12"/>
+  <a:has rdf:resource="&a;FC_2D_Traditional_Animation_13"/>
+</a:want>
+<a:want rdf:about="&a;Want_Digital_Animation_Course_100"
+        a:e3_has_name="Digital Animation"
+        rdfs:label="Digital Animation">
+  <a:has rdf:resource="&a;FC_Digital_Animation_11"/>
+  <a:has rdf:resource="&a;FC_Digital_3D_Modelling_for_Animation_12"/>
+</a:want>
+<a:want rdf:about="&a;Want_Image_Manipulation_Course_200"
+        a:e3_has_name="Image Manipulation"
+        rdfs:label="Image Manipulation">
+  <a:has rdf:resource="&a;FC_Principles_of_photo_image_capture_21"/>
+  <a:has rdf:resource="&a;FC_Photo_image_capture_22"/>
+  <a:has rdf:resource="&a;FC_Presenting_photo_images_23"/>
+  <a:has rdf:resource="&a;FC_Digital_image_manipulation_24"/> 
+  <a:has rdf:resource="&a;FC_Studio_photography_25"/> 
+</a:want>
+<a:want rdf:about="&a;Want_Audio_Edition_Course_300"
+        a:e3_has_name="Audio Edition"
+        rdfs:label="Audio Edition">
+  <a:has rdf:resource="&a;FC_Digital_sound_editing_31"/>
+  <a:has rdf:resource="&a;FC_Audio_mastering_and_restoration_32"/>
+  <a:has rdf:resource="&a;FC_Sound_recording_skills_33"/>
+  <a:has rdf:resource="&a;FC_Multitrack_recording_and_mixing_34"/>
+</a:want>
+<!-- ################### QUALITY CONSEQUENCES ############################### -->
+<a:quality_consequence rdf:about="&a;QC_International_0"
+    a:e3_has_name="International"
+    rdfs:label="International">
+   <a:has_scale rdf:resource="&a;Nom_Repertoire_Coverage_5"/>
+</a:quality_consequence>
+<a:quality_consequence rdf:about="&a;QC_MP3_10000"
+    a:e3_has_name="MP3"
+    rdfs:label="MP3">
+   <a:has_scale rdf:resource="&a;Nom_Format_10002"/>
+</a:quality_consequence>
+<a:quality_consequence rdf:about="&a;QC_OGG_10001"
+    a:e3_has_name="OGG"
+    rdfs:label="OGG">
+   <a:has_scale rdf:resource="&a;Nom_Format_10002"/>
+</a:quality_consequence>
+<a:quality_consequence rdf:about="&a;QC_National_2"
+                       a:e3_has_name="National"
+                       rdfs:label="National">
+  <a:has_scale rdf:resource="&a;Nom_Repertoire_Coverage_5"/>
+</a:quality_consequence>
+<a:quality_consequence rdf:about="&a;QC_International_P_30022"
+                       a:e3_has_name="International_P"
+                       rdfs:label="International_P">
+  <a:has_scale rdf:resource="&a;Nom_Sector_Coverage_30021"/>
+</a:quality_consequence>
+<a:quality_consequence rdf:about="&a;QC_National_P_30023"
+                       a:e3_has_name="National_P"
+                       rdfs:label="National_P">
+  <a:has_scale rdf:resource="&a;Nom_Sector_Coverage_30021"/>
+</a:quality_consequence>
+<a:quality_consequence rdf:about="&a;QC_High_1000"
+                       a:e3_has_name="High"
+                       rdfs:label="High">
+  <a:has_scale rdf:resource="&a;Nom_Fidelity_10"/>
+</a:quality_consequence>
+<a:quality_consequence rdf:about="&a;QC_Medium_1001"
+                       a:e3_has_name="Medium"
+                       rdfs:label="Medium">
+  <a:has_scale rdf:resource="&a;Nom_Fidelity_10"/>
+</a:quality_consequence>
+<!-- ################### NOMINAL ############################### -->
+<a:nominal rdf:about="&a;Nom_Format_10002"
+           a:e3_has_name="Format"
+           rdfs:label="Format">
+  <a:has_quality_consequence rdf:resource="&a;QC_MP3_10000"/>
+  <a:has_quality_consequence rdf:resource="&a;QC_OGG_10001"/>
+</a:nominal>
+<a:nominal rdf:about="&a;Nom_Sector_Coverage_30021"
+           a:e3_has_name="Sector Coverage"
+           rdfs:label="Sector Coverage">
+  <a:has_quality_consequence rdf:resource="&a;QC_International_P_30022"/>
+  <a:has_quality_consequence rdf:resource="&a;QC_National_P_30023"/>
+</a:nominal>
+<a:nominal rdf:about="&a;Nom_Repertoire_Coverage_5"
+           a:e3_has_name="Equivalency"
+           rdfs:label="Equivalency">
+  <a:has_quality_consequence rdf:resource="&a;QC_International_0"/>
+  <a:has_quality_consequence rdf:resource="&a;QC_National_2"/>
+</a:nominal>
+<a:nominal rdf:about="&a;Nom_Fidelity_10"
+           a:e3_has_name="Level"
+           rdfs:label="Level">
+  <a:has_quality_consequence rdf:resource="&a;QC_High_11"/>
+  <a:has_quality_consequence rdf:resource="&a;QC_Medium_12"/>
+</a:nominal>
+</rdf:RDF>

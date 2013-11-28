@@ -1,0 +1,2801 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:a="http://www.cs.vu.nl/~gordijn/e3value#" > 
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#145">
+    <a:vp_second_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#152"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#144"/>
+    <a:vp_has_dir>true</a:vp_has_dir>
+    <a:vp_requests_offers_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#64"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:e3_has_uid>145</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vp145</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#171">
+    <a:va_performed_by_el rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#170"/>
+    <a:va_has_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#179"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_activity"/>
+    <a:e3_has_uid>171</a:e3_has_uid>
+    <a:e3_has_formula>EXPENSES=0</a:e3_has_formula>
+    <a:e3_has_formula>INVESTMENT=0</a:e3_has_formula>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>22_Enabler 2</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#53">
+    <a:e3_has_name>vp53</a:e3_has_name>
+    <a:vp_first_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#86"/>
+    <a:vp_has_dir>false</a:vp_has_dir>
+    <a:vp_second_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#94"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#52"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:vp_requests_offers_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#13"/>
+    <a:e3_has_uid>53</a:e3_has_uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#43">
+    <a:vi_assigned_to_ac rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#4"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#46"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#44"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_interface"/>
+    <a:e3_has_uid>43</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vi43</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#181">
+    <a:vp_first_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#180"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#182"/>
+    <a:vp_has_dir>true</a:vp_has_dir>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:e3_has_uid>181</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vp181</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#130">
+    <a:vp_second_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#129"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#131"/>
+    <a:vp_has_dir>false</a:vp_has_dir>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:e3_has_uid>130</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vp130</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#161">
+    <a:ce_with_up_de rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#163"/>
+    <a:ce_with_down_de rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#162"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#connection_element"/>
+    <a:up_fraction>1</a:up_fraction>
+    <a:down_fraction>1</a:down_fraction>
+    <a:e3_has_uid>161</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ce161</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#7">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#6"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#8"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>7</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>out</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#94">
+    <a:ve_has_second_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#53"/>
+    <a:ve_has_first_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#93"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>94</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve94</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#105">
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:vi_assigned_to_ac rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#21"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:e3_has_uid>105</a:e3_has_uid>
+    <a:vi_in_ca rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#4"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_interface"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#108"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#106"/>
+    <a:e3_has_name>vi105</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#111">
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#117"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#114"/>
+    <a:de_up_ce rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#110"/>
+    <a:vi_assigned_to_va rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#96"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_interface"/>
+    <a:e3_has_uid>111</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vi111</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#19">
+    <a:vo_offered_requested_by_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#176"/>
+    <a:vo_offered_requested_by_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#33"/>
+    <a:vo_offered_requested_by_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#18"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_object"/>
+    <a:e3_has_uid>19</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>Learning Repository</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#84">
+    <a:vp_first_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#83"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#85"/>
+    <a:vp_has_dir>true</a:vp_has_dir>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:e3_has_uid>84</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vp84</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#151">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#148"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#150"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>151</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>in</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#125">
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#131"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#128"/>
+    <a:de_down_ce rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#110"/>
+    <a:vi_assigned_to_va rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#96"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_interface"/>
+    <a:e3_has_uid>125</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vi125</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#144">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#141"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#145"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>144</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>out</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#54">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#51"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#55"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>54</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>out</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#172">
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_interface"/>
+    <a:vi_assigned_to_ac rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#170"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vi172</a:e3_has_name>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#175"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#173"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:e3_has_uid>172</a:e3_has_uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#44">
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#136"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#93"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#45"/>
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#43"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>44</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>in</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#182">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#179"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#181"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>182</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>out</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#93">
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:vp_has_dir>false</a:vp_has_dir>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#44"/>
+    <a:vp_requests_offers_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#13"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:e3_has_name>vp93</a:e3_has_name>
+    <a:e3_has_uid>93</a:e3_has_uid>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:vp_in_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#207"/>
+    <a:vp_first_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#94"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#210">
+    <a:ve_has_out_po rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#211"/>
+    <a:ve_has_in_po rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#45"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>210</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve210</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#104">
+    <a:consequence_has_resource rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#102"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#functional_consequence"/>
+    <a:e3_has_uid>104</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>Presenting photo images</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#162">
+    <a:de_up_ce rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#161"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#end_stimulus"/>
+    <a:e3_has_uid>162</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>es162</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#110">
+    <a:ce_with_up_de rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#125"/>
+    <a:ce_with_down_de rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#111"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#connection_element"/>
+    <a:up_fraction>1</a:up_fraction>
+    <a:down_fraction>1</a:down_fraction>
+    <a:e3_has_uid>110</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ce110</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#124">
+    <a:ve_has_first_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#109"/>
+    <a:ve_has_second_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#120"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>124</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve124</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#83">
+    <a:ve_has_first_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#84"/>
+    <a:ve_has_second_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#55"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>83</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve83</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#152">
+    <a:ve_has_first_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#153"/>
+    <a:ve_has_second_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#145"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>152</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve152</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#8">
+    <a:e3_has_uid>8</a:e3_has_uid>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:vp_first_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#48"/>
+    <a:e3_has_name>vp8</a:e3_has_name>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#7"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:vp_requests_offers_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#9"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:vp_second_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#40"/>
+    <a:vp_has_dir>true</a:vp_has_dir>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#55">
+    <a:e3_has_name>vp55</a:e3_has_name>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#54"/>
+    <a:vp_has_dir>true</a:vp_has_dir>
+    <a:vp_second_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#83"/>
+    <a:e3_has_uid>55</a:e3_has_uid>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:vp_first_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#95"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:vp_requests_offers_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#56"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#143">
+    <a:vp_first_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#149"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#142"/>
+    <a:vp_has_dir>false</a:vp_has_dir>
+    <a:vp_requests_offers_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#13"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:e3_has_uid>143</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vp143</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#41">
+    <a:vp_first_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#40"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#42"/>
+    <a:vp_has_dir>true</a:vp_has_dir>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:e3_has_uid>41</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vp41</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#183">
+    <a:ve_has_second_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#184"/>
+    <a:ve_has_first_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#174"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>183</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve183</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#113">
+    <a:vp_first_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#112"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#114"/>
+    <a:vp_has_dir>true</a:vp_has_dir>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:e3_has_uid>113</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vp113</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#96">
+    <a:va_has_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#125"/>
+    <a:e3_has_formula>INVESTMENT=0</a:e3_has_formula>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_activity"/>
+    <a:va_performed_by_el rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#21"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:e3_has_formula>EXPENSES=0</a:e3_has_formula>
+    <a:va_has_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#111"/>
+    <a:e3_has_name>500/6936/6_City and Guilds of London Institute</a:e3_has_name>
+    <a:e3_has_uid>96</a:e3_has_uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#103">
+    <a:consequence_has_resource rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#102"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#functional_consequence"/>
+    <a:e3_has_uid>103</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>Principles of photo image capture</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#163">
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#169"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#166"/>
+    <a:de_down_ce rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#161"/>
+    <a:vi_assigned_to_va rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#155"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_interface"/>
+    <a:e3_has_uid>163</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vi163</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#142">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#141"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#143"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>142</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>in</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#9">
+    <a:vo_offered_requested_by_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#202"/>
+    <a:vo_offered_requested_by_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#47"/>
+    <a:vo_offered_requested_by_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#8"/>
+    <a:resource_has_consequence rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#10"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_object"/>
+    <a:e3_has_uid>9</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>City &amp; Guilds Level 1 Award in Digital Image Manipulation (QCF)</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#82">
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#88"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#85"/>
+    <a:de_down_ce rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#67"/>
+    <a:vi_assigned_to_va rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#50"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_interface"/>
+    <a:e3_has_uid>82</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vi82</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#123">
+    <a:ve_has_second_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#107"/>
+    <a:ve_has_first_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#122"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>123</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve123</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#69">
+    <a:ve_has_first_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#70"/>
+    <a:ve_has_second_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#66"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>69</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve69</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#17">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#14"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#18"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>17</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>in</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#56">
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:e3_has_uid>56</a:e3_has_uid>
+    <a:resource_has_consequence rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#59"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_object"/>
+    <a:resource_has_consequence rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#58"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>City &amp; Guilds Level 3 Certificate in Specialist Photography and Image Output (QCF)</a:e3_has_name>
+    <a:vo_offered_requested_by_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#91"/>
+    <a:resource_has_consequence rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#57"/>
+    <a:vo_offered_requested_by_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#199"/>
+    <a:vo_offered_requested_by_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#55"/>
+    <a:resource_has_consequence rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#60"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#170">
+    <a:el_performs_va rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#171"/>
+    <a:ac_has_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#172"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#elementary_actor"/>
+    <a:e3_has_uid>170</a:e3_has_uid>
+    <a:e3_has_formula>INVESTMENT=170</a:e3_has_formula>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>Enabler 2</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#29">
+    <a:vi_assigned_to_ac rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#4"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#32"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#30"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_interface"/>
+    <a:e3_has_uid>29</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vi29</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#165">
+    <a:vp_second_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#164"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#166"/>
+    <a:vp_has_dir>false</a:vp_has_dir>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:e3_has_uid>165</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vp165</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#42">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#36"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#41"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>42</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>out</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#184">
+    <a:vp_second_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#183"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#185"/>
+    <a:vp_has_dir>false</a:vp_has_dir>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:e3_has_uid>184</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vp184</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#102">
+    <a:vo_offered_requested_by_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#134"/>
+    <a:vo_offered_requested_by_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#196"/>
+    <a:e3_has_name>City &amp; Guilds Level 2 Certificate in Photo Image Capture (QCF)</a:e3_has_name>
+    <a:resource_has_consequence rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#103"/>
+    <a:vo_offered_requested_by_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#101"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:resource_has_consequence rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#104"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_object"/>
+    <a:e3_has_uid>102</a:e3_has_uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#112">
+    <a:ve_has_first_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#113"/>
+    <a:ve_has_second_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#109"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>112</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve112</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#164">
+    <a:ve_has_second_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#165"/>
+    <a:ve_has_first_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#158"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>164</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve164</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#81">
+    <a:ve_has_first_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#66"/>
+    <a:ve_has_second_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#77"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>81</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve81</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#95">
+    <a:ve_has_first_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#55"/>
+    <a:ve_has_second_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#91"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>95</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve95</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#131">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#125"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#130"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>131</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>in</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#150">
+    <a:vp_second_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#149"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#151"/>
+    <a:vp_has_dir>false</a:vp_has_dir>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:e3_has_uid>150</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vp150</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#141">
+    <a:e3_has_name>vi141</a:e3_has_name>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#142"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#144"/>
+    <a:e3_has_uid>141</a:e3_has_uid>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_interface"/>
+    <a:vi_assigned_to_ac rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#139"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#122">
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:vp_requests_offers_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#64"/>
+    <a:e3_has_uid>122</a:e3_has_uid>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:e3_has_name>vp122</a:e3_has_name>
+    <a:vp_first_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#123"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#121"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:vp_has_dir>false</a:vp_has_dir>
+    <a:vp_in_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#190"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#18">
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:vp_has_dir>false</a:vp_has_dir>
+    <a:e3_has_name>vp18</a:e3_has_name>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#17"/>
+    <a:e3_has_uid>18</a:e3_has_uid>
+    <a:vp_requests_offers_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#19"/>
+    <a:vp_first_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#26"/>
+    <a:vp_second_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#34"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#185">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#179"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#184"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>185</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>in</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#233">
+    <a:ce_with_down_de rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#232"/>
+    <a:ce_with_up_de rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#213"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#connection_element"/>
+    <a:up_fraction>1</a:up_fraction>
+    <a:down_fraction>1</a:down_fraction>
+    <a:e3_has_uid>233</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ce233</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#70">
+    <a:vp_first_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#69"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#71"/>
+    <a:vp_has_dir>true</a:vp_has_dir>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:e3_has_uid>70</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vp70</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#149">
+    <a:ve_has_second_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#150"/>
+    <a:ve_has_first_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#143"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>149</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve149</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#120">
+    <a:vp_has_dir>true</a:vp_has_dir>
+    <a:vp_requests_offers_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#13"/>
+    <a:e3_has_uid>120</a:e3_has_uid>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:vp_second_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#124"/>
+    <a:e3_has_name>vp120</a:e3_has_name>
+    <a:vp_out_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#191"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#119"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#60">
+    <a:consequence_has_resource rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#56"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#functional_consequence"/>
+    <a:e3_has_uid>60</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>Photo image capture</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#175">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#172"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#176"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>175</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>out</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#176">
+    <a:vp_second_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#180"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:e3_has_name>vp176</a:e3_has_name>
+    <a:vp_requests_offers_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#19"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#175"/>
+    <a:vp_has_dir>true</a:vp_has_dir>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:vp_out_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#186"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_uid>176</a:e3_has_uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#121">
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#122"/>
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#118"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>121</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>in</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#109">
+    <a:vp_first_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#124"/>
+    <a:vp_has_dir>true</a:vp_has_dir>
+    <a:e3_has_uid>109</a:e3_has_uid>
+    <a:e3_has_name>vp109</a:e3_has_name>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#108"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:vp_second_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#112"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:vp_requests_offers_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#13"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#208">
+    <a:vp_out_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#207"/>
+    <a:vp_requests_offers_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#13"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:vp_second_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#226"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:e3_has_uid>208</a:e3_has_uid>
+    <a:e3_has_name>vp208</a:e3_has_name>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#209"/>
+    <a:vp_has_dir>true</a:vp_has_dir>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#80">
+    <a:ve_has_second_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#63"/>
+    <a:ve_has_first_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#79"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>80</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve80</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#186">
+    <a:ve_has_out_po rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#176"/>
+    <a:ve_has_in_po rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#33"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>186</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve186</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#134">
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#46"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:vp_requests_offers_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#102"/>
+    <a:vp_second_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#138"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:e3_has_name>vp134</a:e3_has_name>
+    <a:vp_has_dir>true</a:vp_has_dir>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_uid>134</a:e3_has_uid>
+    <a:vp_out_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#195"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#40">
+    <a:ve_has_first_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#41"/>
+    <a:ve_has_second_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#8"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>40</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve40</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#50">
+    <a:va_has_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#82"/>
+    <a:va_has_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#68"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_activity"/>
+    <a:va_performed_by_el rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#21"/>
+    <a:e3_has_uid>50</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:e3_has_formula>EXPENSES=0</a:e3_has_formula>
+    <a:e3_has_name>500/6958/5_City and Guilds of London Institute</a:e3_has_name>
+    <a:e3_has_formula>INVESTMENT=0</a:e3_has_formula>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#148">
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#154"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#151"/>
+    <a:de_down_ce rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#146"/>
+    <a:vi_assigned_to_va rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#140"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_interface"/>
+    <a:e3_has_uid>148</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vi148</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#220">
+    <a:ve_has_first_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#221"/>
+    <a:ve_has_second_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#205"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>220</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve220</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#177">
+    <a:ce_with_up_de rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#179"/>
+    <a:ce_with_down_de rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#178"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#connection_element"/>
+    <a:up_fraction>1</a:up_fraction>
+    <a:down_fraction>1</a:down_fraction>
+    <a:e3_has_uid>177</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ce177</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#30">
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#31"/>
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#29"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>30</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>out</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#108">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#105"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#109"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>108</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>out</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#20">
+    <a:ce_with_up_de rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#36"/>
+    <a:ce_with_down_de rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#22"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#connection_element"/>
+    <a:up_fraction>1</a:up_fraction>
+    <a:down_fraction>1</a:down_fraction>
+    <a:e3_has_uid>20</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ce20</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#207">
+    <a:ve_has_out_po rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#208"/>
+    <a:ve_has_in_po rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#93"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>207</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve207</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#187">
+    <a:ve_has_in_po rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#174"/>
+    <a:ve_has_out_po rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#31"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>187</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve187</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#231">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#213"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#230"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>231</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>in</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#72">
+    <a:ve_has_second_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#73"/>
+    <a:ve_has_first_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#63"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>72</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve72</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#137">
+    <a:ve_has_second_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#99"/>
+    <a:ve_has_first_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#136"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>137</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve137</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#221">
+    <a:vp_first_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#220"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#222"/>
+    <a:vp_has_dir>true</a:vp_has_dir>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:e3_has_uid>221</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vp221</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#173">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#172"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#174"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>173</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>in</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#147">
+    <a:de_up_ce rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#146"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#end_stimulus"/>
+    <a:e3_has_uid>147</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>es147</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#51">
+    <a:e3_has_name>vi51</a:e3_has_name>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#54"/>
+    <a:vi_assigned_to_ac rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#21"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:vi_in_ca rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#4"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_uid>51</a:e3_has_uid>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#52"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_interface"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#107">
+    <a:e3_has_name>vp107</a:e3_has_name>
+    <a:vp_requests_offers_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#64"/>
+    <a:vp_second_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#123"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:vp_has_dir>false</a:vp_has_dir>
+    <a:e3_has_uid>107</a:e3_has_uid>
+    <a:vp_first_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#115"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#106"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#31">
+    <a:vp_has_dir>true</a:vp_has_dir>
+    <a:vp_out_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#187"/>
+    <a:e3_has_uid>31</a:e3_has_uid>
+    <a:vp_second_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#35"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#30"/>
+    <a:e3_has_name>vp31</a:e3_has_name>
+    <a:vp_requests_offers_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#13"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#188">
+    <a:ve_has_out_po rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#160"/>
+    <a:ve_has_in_po rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#79"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>188</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve188</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#230">
+    <a:vp_second_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#229"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#231"/>
+    <a:vp_has_dir>false</a:vp_has_dir>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:e3_has_uid>230</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vp230</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#136">
+    <a:e3_has_name>vp136</a:e3_has_name>
+    <a:vp_requests_offers_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#13"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#44"/>
+    <a:vp_has_dir>false</a:vp_has_dir>
+    <a:vp_in_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#204"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:vp_first_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#137"/>
+    <a:e3_has_uid>136</a:e3_has_uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#71">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#68"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#70"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>71</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>out</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#232">
+    <a:de_up_ce rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#233"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#start_stimulus"/>
+    <a:e3_has_formula>OCURRENCES=1</a:e3_has_formula>
+    <a:e3_has_uid>232</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ss232</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#174">
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#173"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:e3_has_uid>174</a:e3_has_uid>
+    <a:vp_requests_offers_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#13"/>
+    <a:e3_has_name>vp174</a:e3_has_name>
+    <a:vp_has_dir>false</a:vp_has_dir>
+    <a:vp_in_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#187"/>
+    <a:vp_first_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#183"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#222">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#213"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#221"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>222</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>out</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#52">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#51"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#53"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>52</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>in</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#146">
+    <a:ce_with_up_de rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#148"/>
+    <a:ce_with_down_de rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#147"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#connection_element"/>
+    <a:up_fraction>1</a:up_fraction>
+    <a:down_fraction>1</a:down_fraction>
+    <a:e3_has_uid>146</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ce146</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#32">
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#33"/>
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#29"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>32</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>in</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#91">
+    <a:vp_out_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#198"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:e3_has_uid>91</a:e3_has_uid>
+    <a:vp_has_dir>true</a:vp_has_dir>
+    <a:vp_requests_offers_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#56"/>
+    <a:e3_has_name>vp91</a:e3_has_name>
+    <a:vp_second_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#95"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#46"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#219">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#213"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#218"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>219</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>out</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#160">
+    <a:e3_has_name>vp160</a:e3_has_name>
+    <a:vp_requests_offers_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#64"/>
+    <a:vp_has_dir>true</a:vp_has_dir>
+    <a:vp_out_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#188"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:e3_has_uid>160</a:e3_has_uid>
+    <a:vp_out_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#190"/>
+    <a:vp_second_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#167"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#159"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#189">
+    <a:ve_has_in_po rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#158"/>
+    <a:ve_has_out_po rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#77"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>189</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve189</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#106">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#105"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#107"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>106</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>in</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#209">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#193"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#208"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>209</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>out</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#34">
+    <a:ve_has_second_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#18"/>
+    <a:ve_has_first_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#33"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>34</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve34</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#118">
+    <a:vi_assigned_to_ac rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#4"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#121"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#119"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_interface"/>
+    <a:e3_has_uid>118</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vi118</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#218">
+    <a:vp_first_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#217"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#219"/>
+    <a:vp_has_dir>true</a:vp_has_dir>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:e3_has_uid>218</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vp218</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#204">
+    <a:ve_has_out_po rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#205"/>
+    <a:ve_has_in_po rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#136"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>204</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve204</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#11">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#6"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#12"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>11</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>in</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#64">
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:e3_has_name>Help Desk</a:e3_has_name>
+    <a:vo_offered_requested_by_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#122"/>
+    <a:vo_offered_requested_by_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#79"/>
+    <a:e3_has_uid>64</a:e3_has_uid>
+    <a:vo_offered_requested_by_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#160"/>
+    <a:vo_offered_requested_by_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#145"/>
+    <a:vo_offered_requested_by_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#107"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_object"/>
+    <a:vo_offered_requested_by_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#63"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#224">
+    <a:vp_second_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#223"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#225"/>
+    <a:vp_has_dir>false</a:vp_has_dir>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:e3_has_uid>224</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vp224</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#24">
+    <a:vp_first_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#23"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#25"/>
+    <a:vp_has_dir>true</a:vp_has_dir>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:e3_has_uid>24</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vp24</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#74">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#68"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#73"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>74</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>in</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#138">
+    <a:ve_has_first_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#101"/>
+    <a:ve_has_second_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#134"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>138</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve138</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#23">
+    <a:ve_has_first_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#24"/>
+    <a:ve_has_second_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#16"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>23</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve23</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#119">
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#120"/>
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#118"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>119</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>out</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#33">
+    <a:e3_has_uid>33</a:e3_has_uid>
+    <a:vp_requests_offers_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#19"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:vp_first_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#34"/>
+    <a:vp_in_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#186"/>
+    <a:vp_has_dir>false</a:vp_has_dir>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#32"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:e3_has_name>vp33</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#1">
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#134"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#61"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#161"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#196"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#153"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#155"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#146"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#73"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#138"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#65"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#231"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#24"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#223"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#40"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#120"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#167"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#159"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#77"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#36"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#193"/>
+    <a:e3_has_name>Bussines_Model</a:e3_has_name>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#28"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#52"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#227"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#44"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#80"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#111"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#197"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#10"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#199"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#156"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#56"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#172"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#92"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#25"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#68"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#41"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#84"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#123"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#168"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#115"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#184"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#200"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#37"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#53"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#96"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#29"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#diagram"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#88"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#45"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#127"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#119"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#81"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#212"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#204"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#180"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#112"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#11"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#181"/>
+    <a:e3_has_uid>1</a:e3_has_uid>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#173"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#69"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#93"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#85"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#8"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#216"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#192"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#124"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#208"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#140"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#116"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#185"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#187"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#201"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#179"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#97"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#89"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#48"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#4"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#128"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#103"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#213"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#30"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#205"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#22"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#14"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#176"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#9"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#107"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#217"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#34"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#209"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#141"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#150"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#100"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#143"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#18"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#70"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#188"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#135"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#62"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#220"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#57"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#49"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#162"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#5"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#147"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#104"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#74"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#31"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#139"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#230"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#23"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#66"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#232"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#15"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#224"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#132"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#108"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#78"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#194"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#151"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#144"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#19"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#71"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#228"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#136"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#63"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#221"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#163"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#165"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#157"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#148"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#75"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#233"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#67"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#50"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#26"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#225"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#42"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#169"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#38"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#195"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#154"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#54"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#229"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#170"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#90"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#82"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#121"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#166"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#113"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#12"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#182"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#158"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#174"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#35"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#27"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#51"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#94"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#86"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#43"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#125"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#117"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#210"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#186"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#202"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#110"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#39"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#198"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#55"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#98"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#171"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#129"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#91"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#83"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#214"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#190"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#122"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#206"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#114"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#183"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#130"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#175"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#79"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#177"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#95"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#87"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#218"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#46"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#2"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#126"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#118"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#142"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#101"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#211"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#189"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#203"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#20"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#99"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#58"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#6"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#7"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#105"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#191"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#215"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#32"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#207"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#131"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#16"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#133"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#60"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#178"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#219"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#109"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#47"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#160"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#3"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#152"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#145"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#102"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#72"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#137"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#21"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#64"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#13"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#222"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#59"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#164"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#106"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#149"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#33"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#76"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#17"/>
+    <a:di_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#226"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#203">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#193"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#202"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>203</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>in</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#217">
+    <a:ve_has_first_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#218"/>
+    <a:ve_has_second_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#211"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>217</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve217</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#223">
+    <a:ve_has_second_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#224"/>
+    <a:ve_has_first_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#199"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>223</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve223</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#12">
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#11"/>
+    <a:e3_has_uid>12</a:e3_has_uid>
+    <a:vp_first_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#37"/>
+    <a:vp_requests_offers_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#13"/>
+    <a:vp_second_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#49"/>
+    <a:e3_has_name>vp12</a:e3_has_name>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:vp_has_dir>false</a:vp_has_dir>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#63">
+    <a:vp_has_dir>false</a:vp_has_dir>
+    <a:vp_second_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#80"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:vp_first_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#72"/>
+    <a:e3_has_uid>63</a:e3_has_uid>
+    <a:vp_requests_offers_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#64"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#62"/>
+    <a:e3_has_name>vp63</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#73">
+    <a:vp_second_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#72"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#74"/>
+    <a:vp_has_dir>false</a:vp_has_dir>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:e3_has_uid>73</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vp73</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#139">
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#elementary_actor"/>
+    <a:e3_has_formula>INVESTMENT=139</a:e3_has_formula>
+    <a:el_performs_va rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#155"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>Enabler 3</a:e3_has_name>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:ac_has_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#156"/>
+    <a:e3_has_uid>139</a:e3_has_uid>
+    <a:el_performs_va rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#140"/>
+    <a:ac_has_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#141"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#22">
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#28"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#25"/>
+    <a:de_up_ce rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#20"/>
+    <a:vi_assigned_to_va rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#5"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_interface"/>
+    <a:e3_has_uid>22</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vi22</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#206">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#193"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#205"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>206</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>out</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#216">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#213"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#215"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>216</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>in</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#199">
+    <a:vp_first_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#223"/>
+    <a:vp_in_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#198"/>
+    <a:e3_has_uid>199</a:e3_has_uid>
+    <a:vp_has_dir>false</a:vp_has_dir>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:vp_requests_offers_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#56"/>
+    <a:e3_has_name>vp199</a:e3_has_name>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#200"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#0">
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#180"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#159"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#133"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#92"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#54"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#125"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#151"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#232"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#187"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#203"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#65"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#110"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#22"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#198"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#31"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#62"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#200"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#137"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#93"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#46"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#160"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#122"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#152"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#81"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#34"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#183"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#43"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#221"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#74"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#212"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#204"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#176"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#129"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#66"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#40"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#58"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#97"/>
+    <a:e3_has_name>model</a:e3_has_name>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#228"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#164"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#117"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#69"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#157"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#100"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#10"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#130"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#35"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#216"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#188"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#78"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#123"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#52"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#44"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#107"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#23"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#222"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#63"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#201"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#142"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#118"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#47"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#135"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#39"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#217"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#153"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#79"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#56"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#101"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#189"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#205"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#181"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#67"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#112"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#41"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#229"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#95"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#48"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#131"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#124"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#230"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#185"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#108"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#138"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#178"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#99"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#12"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#37"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#109"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#49"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#13"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#model"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#219"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#17"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#194"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#20"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#82"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#7"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#111"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#70"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#199"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#172"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#32"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#210"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#165"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#94"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#86"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#224"/>
+    <a:e3_has_uid>0</a:e3_has_uid>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#184"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#71"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#24"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#177"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#195"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#103"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#15"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#190"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#169"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#98"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#143"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#161"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#114"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#154"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#83"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#36"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#75"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#213"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#28"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#206"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#68"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#19"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#147"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#173"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#126"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#196"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#166"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#170"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#119"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#30"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#225"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#158"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#87"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#132"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#91"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#218"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#53"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#84"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#231"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#120"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#25"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#182"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#113"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#104"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#191"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#144"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#174"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#127"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#136"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#193"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#167"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#96"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#88"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#226"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#29"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#211"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#33"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#207"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#186"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#139"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#73"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#148"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#26"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#179"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#57"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#105"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#192"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#197"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#145"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#171"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#163"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#116"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#45"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#156"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#85"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#223"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#38"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#77"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#4"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#215"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#51"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#208"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#149"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#175"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#128"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#102"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#168"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#141"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#227"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#89"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#14"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#134"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#55"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#233"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#27"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#106"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#146"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#8"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#18"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#5"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#90"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#209"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#2"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#59"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#60"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#11"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#6"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#150"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#9"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#72"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#64"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#202"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#16"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#162"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#115"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#3"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#155"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#214"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#76"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#121"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#50"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#80"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#42"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#21"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#220"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#61"/>
+    <a:mo_has_mc rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#140"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#178">
+    <a:de_up_ce rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#177"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#end_stimulus"/>
+    <a:e3_has_uid>178</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>es178</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#62">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#61"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#63"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>62</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>in</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#226">
+    <a:ve_has_first_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#227"/>
+    <a:ve_has_second_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#208"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>226</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve226</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#158">
+    <a:vp_requests_offers_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#13"/>
+    <a:vp_first_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#164"/>
+    <a:e3_has_uid>158</a:e3_has_uid>
+    <a:e3_has_name>vp158</a:e3_has_name>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#157"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:vp_in_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#191"/>
+    <a:vp_has_dir>false</a:vp_has_dir>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:vp_in_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#189"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#36">
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#42"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#39"/>
+    <a:de_down_ce rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#20"/>
+    <a:vi_assigned_to_va rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#5"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_interface"/>
+    <a:e3_has_uid>36</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vi36</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#76">
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#77"/>
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#75"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>76</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>out</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#21">
+    <a:el_performs_va rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#50"/>
+    <a:e3_has_name>City and Guilds of London Institute &amp; 11005</a:e3_has_name>
+    <a:ac_has_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#6"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:ac_has_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#14"/>
+    <a:el_performs_va rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#96"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#elementary_actor"/>
+    <a:ac_has_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#97"/>
+    <a:e3_has_formula>INVESTMENT=21</a:e3_has_formula>
+    <a:ac_has_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#61"/>
+    <a:e3_has_uid>21</a:e3_has_uid>
+    <a:ac_has_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#105"/>
+    <a:ac_has_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#51"/>
+    <a:el_performs_va rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#198">
+    <a:ve_has_in_po rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#199"/>
+    <a:ve_has_out_po rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#91"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>198</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve198</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#215">
+    <a:vp_second_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#214"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#216"/>
+    <a:vp_has_dir>false</a:vp_has_dir>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:e3_has_uid>215</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vp215</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#49">
+    <a:ve_has_second_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#12"/>
+    <a:ve_has_first_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#45"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>49</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve49</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#205">
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#206"/>
+    <a:e3_has_uid>205</a:e3_has_uid>
+    <a:vp_has_dir>true</a:vp_has_dir>
+    <a:vp_second_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#220"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:vp_requests_offers_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#13"/>
+    <a:e3_has_name>vp205</a:e3_has_name>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:vp_out_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#204"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#179">
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#185"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#182"/>
+    <a:de_down_ce rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#177"/>
+    <a:vi_assigned_to_va rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#171"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_interface"/>
+    <a:e3_has_uid>179</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vi179</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#159">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#156"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#160"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>159</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>out</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#35">
+    <a:ve_has_first_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#16"/>
+    <a:ve_has_second_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#31"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>35</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve35</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#225">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#213"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#224"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>225</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>in</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#61">
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#65"/>
+    <a:e3_has_name>vi61</a:e3_has_name>
+    <a:vi_in_ca rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#4"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_interface"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#62"/>
+    <a:e3_has_uid>61</a:e3_has_uid>
+    <a:vi_assigned_to_ac rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#21"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#10">
+    <a:consequence_has_resource rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#9"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#functional_consequence"/>
+    <a:e3_has_uid>10</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>Digital image manipulation</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#75">
+    <a:vi_assigned_to_ac rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#4"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#78"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#76"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_interface"/>
+    <a:e3_has_uid>75</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vi75</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#197">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#193"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#196"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>197</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>in</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#6">
+    <a:vi_in_ca rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#4"/>
+    <a:e3_has_uid>6</a:e3_has_uid>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#11"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#7"/>
+    <a:e3_has_name>vi6</a:e3_has_name>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_interface"/>
+    <a:vi_assigned_to_ac rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#21"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#128">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#125"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#127"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>128</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>out</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#88">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#82"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#87"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>88</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>in</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#200">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#193"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#199"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>200</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>in</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#68">
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#74"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#71"/>
+    <a:de_up_ce rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#67"/>
+    <a:vi_assigned_to_va rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#50"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_interface"/>
+    <a:e3_has_uid>68</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vi68</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#140">
+    <a:va_performed_by_el rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#139"/>
+    <a:va_has_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#148"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_activity"/>
+    <a:e3_has_uid>140</a:e3_has_uid>
+    <a:e3_has_formula>EXPENSES=0</a:e3_has_formula>
+    <a:e3_has_formula>INVESTMENT=0</a:e3_has_formula>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>33_Enabler 3</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#15">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#14"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#16"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>15</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>out</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#58">
+    <a:consequence_has_resource rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#56"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#functional_consequence"/>
+    <a:e3_has_uid>58</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>Photo image output</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#100">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#97"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#101"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>100</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>out</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#48">
+    <a:ve_has_first_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#8"/>
+    <a:ve_has_second_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#47"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>48</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve48</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#214">
+    <a:ve_has_second_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#215"/>
+    <a:ve_has_first_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#196"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>214</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve214</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#98">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#97"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#99"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>98</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>in</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#114">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#111"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#113"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>114</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>out</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#190">
+    <a:ve_has_out_po rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#160"/>
+    <a:ve_has_in_po rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#122"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>190</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve190</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#228">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#213"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#227"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>228</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>out</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#196">
+    <a:vp_has_dir>false</a:vp_has_dir>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#197"/>
+    <a:vp_requests_offers_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#102"/>
+    <a:vp_in_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#195"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:vp_first_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#214"/>
+    <a:e3_has_uid>196</a:e3_has_uid>
+    <a:e3_has_name>vp196</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#78">
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#79"/>
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#75"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>78</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>in</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#28">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#22"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#27"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>28</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>in</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#166">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#163"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#165"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>166</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>in</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#156">
+    <a:vi_assigned_to_ac rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#139"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_interface"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#157"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#159"/>
+    <a:e3_has_name>vi156</a:e3_has_name>
+    <a:e3_has_uid>156</a:e3_has_uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#38">
+    <a:vp_second_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#37"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#39"/>
+    <a:vp_has_dir>false</a:vp_has_dir>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:e3_has_uid>38</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vp38</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#180">
+    <a:ve_has_first_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#181"/>
+    <a:ve_has_second_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#176"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>180</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve180</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#5">
+    <a:e3_has_uid>5</a:e3_has_uid>
+    <a:e3_has_name>500/7346/1_City and Guilds of London Institute</a:e3_has_name>
+    <a:e3_has_formula>EXPENSES=0</a:e3_has_formula>
+    <a:va_has_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#36"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_activity"/>
+    <a:va_has_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#22"/>
+    <a:va_performed_by_el rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#21"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:e3_has_formula>INVESTMENT=0</a:e3_has_formula>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#87">
+    <a:vp_second_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#86"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#88"/>
+    <a:vp_has_dir>false</a:vp_has_dir>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:e3_has_uid>87</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vp87</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#57">
+    <a:consequence_has_resource rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#56"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#functional_consequence"/>
+    <a:e3_has_uid>57</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>Location photography</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#16">
+    <a:e3_has_uid>16</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:vp_first_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#35"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vp16</a:e3_has_name>
+    <a:vp_requests_offers_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#13"/>
+    <a:vp_second_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#23"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:vp_has_dir>true</a:vp_has_dir>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#15"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#47">
+    <a:vp_has_dir>true</a:vp_has_dir>
+    <a:e3_has_uid>47</a:e3_has_uid>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#46"/>
+    <a:e3_has_name>vp47</a:e3_has_name>
+    <a:vp_second_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#48"/>
+    <a:vp_out_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#201"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:vp_requests_offers_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#101">
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#100"/>
+    <a:vp_second_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#126"/>
+    <a:e3_has_name>vp101</a:e3_has_name>
+    <a:e3_has_uid>101</a:e3_has_uid>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:vp_first_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#138"/>
+    <a:vp_requests_offers_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#102"/>
+    <a:vp_has_dir>true</a:vp_has_dir>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#213">
+    <a:de_down_ce rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#233"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#219"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#231"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#228"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#225"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_interface"/>
+    <a:e3_has_name>vi213</a:e3_has_name>
+    <a:vi_assigned_to_va rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#194"/>
+    <a:e3_has_uid>213</a:e3_has_uid>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#222"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#216"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#115">
+    <a:ve_has_second_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#116"/>
+    <a:ve_has_first_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#107"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>115</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve115</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#129">
+    <a:ve_has_second_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#130"/>
+    <a:ve_has_first_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#99"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>129</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve129</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#97">
+    <a:vi_assigned_to_ac rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#21"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vi97</a:e3_has_name>
+    <a:vi_in_ca rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#4"/>
+    <a:e3_has_uid>97</a:e3_has_uid>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#100"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#98"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_interface"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#27">
+    <a:vp_second_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#26"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#28"/>
+    <a:vp_has_dir>false</a:vp_has_dir>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:e3_has_uid>27</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vp27</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#195">
+    <a:ve_has_in_po rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#196"/>
+    <a:ve_has_out_po rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#134"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>195</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve195</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#77">
+    <a:vp_requests_offers_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#13"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:vp_has_dir>true</a:vp_has_dir>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#76"/>
+    <a:e3_has_uid>77</a:e3_has_uid>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:vp_second_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#81"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:e3_has_name>vp77</a:e3_has_name>
+    <a:vp_out_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#189"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#167">
+    <a:ve_has_first_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#168"/>
+    <a:ve_has_second_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#160"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>167</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve167</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#67">
+    <a:ce_with_up_de rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#82"/>
+    <a:ce_with_down_de rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#68"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#connection_element"/>
+    <a:up_fraction>1</a:up_fraction>
+    <a:down_fraction>1</a:down_fraction>
+    <a:e3_has_uid>67</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ce67</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#157">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#156"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#158"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>157</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>in</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#227">
+    <a:vp_first_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#226"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#228"/>
+    <a:vp_has_dir>true</a:vp_has_dir>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:e3_has_uid>227</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vp227</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#37">
+    <a:ve_has_second_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#38"/>
+    <a:ve_has_first_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#12"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>37</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve37</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#153">
+    <a:vp_first_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#152"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#154"/>
+    <a:vp_has_dir>true</a:vp_has_dir>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:e3_has_uid>153</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vp153</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#202">
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:vp_first_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#229"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#203"/>
+    <a:e3_has_name>vp202</a:e3_has_name>
+    <a:vp_in_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#201"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:vp_requests_offers_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#9"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:e3_has_uid>202</a:e3_has_uid>
+    <a:vp_has_dir>false</a:vp_has_dir>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#13">
+    <a:e3_has_uid>13</a:e3_has_uid>
+    <a:vo_offered_requested_by_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#208"/>
+    <a:vo_offered_requested_by_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#12"/>
+    <a:vo_offered_requested_by_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#205"/>
+    <a:vo_offered_requested_by_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#174"/>
+    <a:vo_offered_requested_by_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#109"/>
+    <a:vo_offered_requested_by_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#16"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:vo_offered_requested_by_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#45"/>
+    <a:vo_offered_requested_by_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#158"/>
+    <a:vo_offered_requested_by_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#66"/>
+    <a:vo_offered_requested_by_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#93"/>
+    <a:vo_offered_requested_by_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#120"/>
+    <a:vo_offered_requested_by_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#136"/>
+    <a:vo_offered_requested_by_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#99"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_object"/>
+    <a:vo_offered_requested_by_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#77"/>
+    <a:e3_has_name>MONEY</a:e3_has_name>
+    <a:vo_offered_requested_by_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#31"/>
+    <a:vo_offered_requested_by_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#143"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:vo_offered_requested_by_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#53"/>
+    <a:vo_offered_requested_by_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#211"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#86">
+    <a:ve_has_second_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#87"/>
+    <a:ve_has_first_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#53"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>86</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve86</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#4">
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:ac_has_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#43"/>
+    <a:ac_has_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#29"/>
+    <a:e3_has_formula>EXPENSES=0</a:e3_has_formula>
+    <a:ca_consists_of_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#51"/>
+    <a:ac_has_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#75"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#composite_actor"/>
+    <a:ac_has_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#118"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:e3_has_uid>4</a:e3_has_uid>
+    <a:e3_has_formula>INVESTMENT=0</a:e3_has_formula>
+    <a:ca_consists_of_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#6"/>
+    <a:ca_consists_of_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#105"/>
+    <a:ca_consists_of_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#97"/>
+    <a:ca_consists_of_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#61"/>
+    <a:e3_has_name>SVN (84)</a:e3_has_name>
+    <a:ca_consists_of_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#14"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#126">
+    <a:ve_has_first_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#127"/>
+    <a:ve_has_second_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#101"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>126</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve126</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#116">
+    <a:vp_second_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#115"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#117"/>
+    <a:vp_has_dir>false</a:vp_has_dir>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:e3_has_uid>116</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vp116</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#212">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#193"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#211"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>212</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>out</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#46">
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#134"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#91"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#47"/>
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#43"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>46</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>out</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#168">
+    <a:vp_first_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#167"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#169"/>
+    <a:vp_has_dir>true</a:vp_has_dir>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:e3_has_uid>168</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vp168</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#194">
+    <a:va_performed_by_el rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#192"/>
+    <a:va_has_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#213"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_activity"/>
+    <a:e3_has_uid>194</a:e3_has_uid>
+    <a:e3_has_formula>EXPENSES=0</a:e3_has_formula>
+    <a:e3_has_formula>INVESTMENT=0</a:e3_has_formula>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>As a multimedia creator, how can I improve my competencies?</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#26">
+    <a:ve_has_second_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#27"/>
+    <a:ve_has_first_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#18"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>26</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve26</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#192">
+    <a:el_performs_va rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#194"/>
+    <a:ac_has_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#193"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#elementary_actor"/>
+    <a:e3_has_uid>192</a:e3_has_uid>
+    <a:e3_has_formula>INVESTMENT=192</a:e3_has_formula>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>CUSTOMER</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#154">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#148"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#153"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>154</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>out</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#66">
+    <a:e3_has_uid>66</a:e3_has_uid>
+    <a:e3_has_name>vp66</a:e3_has_name>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#65"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:vp_has_dir>true</a:vp_has_dir>
+    <a:vp_requests_offers_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#13"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:vp_second_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#69"/>
+    <a:vp_first_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#81"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#14">
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:vi_in_ca rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#4"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#15"/>
+    <a:e3_has_name>vi14</a:e3_has_name>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:vi_assigned_to_ac rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#21"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_interface"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#17"/>
+    <a:e3_has_uid>14</a:e3_has_uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#85">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#82"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#84"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>85</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>out</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#59">
+    <a:consequence_has_resource rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#56"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#functional_consequence"/>
+    <a:e3_has_uid>59</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>Studio photography</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#201">
+    <a:ve_has_in_po rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#202"/>
+    <a:ve_has_out_po rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#47"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>201</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve201</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#127">
+    <a:vp_first_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#126"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#128"/>
+    <a:vp_has_dir>true</a:vp_has_dir>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:e3_has_uid>127</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>vp127</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#211">
+    <a:e3_has_uid>211</a:e3_has_uid>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:vp_out_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#210"/>
+    <a:vp_second_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#217"/>
+    <a:vp_requests_offers_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#13"/>
+    <a:vp_has_dir>true</a:vp_has_dir>
+    <a:e3_has_name>vp211</a:e3_has_name>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#212"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#99">
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:vp_has_dir>false</a:vp_has_dir>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:vp_first_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#129"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#98"/>
+    <a:vp_requests_offers_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#13"/>
+    <a:vp_second_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#137"/>
+    <a:e3_has_name>vp99</a:e3_has_name>
+    <a:e3_has_uid>99</a:e3_has_uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#117">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#111"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#116"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>117</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>in</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#79">
+    <a:e3_has_uid>79</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:vp_in_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#188"/>
+    <a:vp_has_dir>false</a:vp_has_dir>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#78"/>
+    <a:e3_has_name>vp79</a:e3_has_name>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:vp_first_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#80"/>
+    <a:vp_requests_offers_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#64"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#45">
+    <a:vp_requests_offers_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#13"/>
+    <a:e3_has_name>vp45</a:e3_has_name>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_port"/>
+    <a:vp_has_dir>false</a:vp_has_dir>
+    <a:vp_in_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#210"/>
+    <a:vp_in_vo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#44"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:vp_first_connects_ve rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#49"/>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:e3_has_uid>45</a:e3_has_uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#25">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#22"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#24"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>25</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>out</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#169">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#163"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#168"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>169</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>out</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#229">
+    <a:ve_has_second_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#230"/>
+    <a:ve_has_first_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#202"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>229</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve229</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#193">
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#197"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#212"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#206"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#200"/>
+    <a:vi_assigned_to_ac rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#192"/>
+    <a:e3_has_name>vi193</a:e3_has_name>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:e3_has_uid>193</a:e3_has_uid>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#209"/>
+    <a:vi_consists_of_of rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#203"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_interface"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#191">
+    <a:ve_has_in_po rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#158"/>
+    <a:ve_has_out_po rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#120"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_exchange"/>
+    <a:e3_has_formula>CARDINALITY=1</a:e3_has_formula>
+    <a:e3_has_uid>191</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>ve191</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#39">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#36"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#38"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>39</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>in</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#155">
+    <a:va_performed_by_el rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#139"/>
+    <a:va_has_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#163"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_activity"/>
+    <a:e3_has_uid>155</a:e3_has_uid>
+    <a:e3_has_formula>EXPENSES=0</a:e3_has_formula>
+    <a:e3_has_formula>INVESTMENT=0</a:e3_has_formula>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>33_Enabler 3</a:e3_has_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cs.vu.nl/~gordijn/BusinessCase01#65">
+    <a:vo_in_vi rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#61"/>
+    <a:vo_consists_of_vp rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#66"/>
+    <rdf:type rdf:resource="http://www.cs.vu.nl/~gordijn/e3value#value_offering"/>
+    <a:e3_has_uid>65</a:e3_has_uid>
+    <a:mc_in_di rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#1"/>
+    <a:mc_in_mo rdf:resource="http://www.cs.vu.nl/~gordijn/BusinessCase01#0"/>
+    <a:e3_has_name>out</a:e3_has_name>
+  </rdf:Description>
+</rdf:RDF>
